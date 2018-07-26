@@ -1,0 +1,9 @@
+package gomodtest
+
+import (
+	"fmt"
+)
+
+func run() {
+	fmt.Println("run")
+}
